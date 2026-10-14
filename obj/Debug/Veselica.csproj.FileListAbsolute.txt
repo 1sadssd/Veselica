@@ -1,0 +1,7 @@
+C:\C#\Stud1ng_sharp\Veselica\bin\Debug\Veselica.exe.config
+C:\C#\Stud1ng_sharp\Veselica\bin\Debug\Veselica.exe
+C:\C#\Stud1ng_sharp\Veselica\bin\Debug\Veselica.pdb
+C:\C#\Stud1ng_sharp\Veselica\obj\Debug\Veselica.csproj.AssemblyReference.cache
+C:\C#\Stud1ng_sharp\Veselica\obj\Debug\Veselica.csproj.CoreCompileInputs.cache
+C:\C#\Stud1ng_sharp\Veselica\obj\Debug\Veselica.exe
+C:\C#\Stud1ng_sharp\Veselica\obj\Debug\Veselica.pdb
